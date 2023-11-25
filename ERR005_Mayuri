@@ -1,0 +1,10 @@
+<header id="header">
+								
+									<ul class="icons">
+										<li><a href="#" ><span class="fa fa-twitter">Twitter</span></a></li>
+										<li><a href="#" ><span class="fa fa-facebook-f">Facebook</span></a></li>
+										<li><a href="#"><span class="fa fa-snapchat">Snapchat</span></a></li>
+										<li><a href="#" ><span class="fa fa-instagram">Instagram</span></a></li>
+										<li><a href="#"><span class="Medium">Medium</span></a></li>
+									</ul>
+								</header>
